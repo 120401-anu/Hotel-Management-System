@@ -1,2 +1,2 @@
 # Hotel-Management-System
-This website made in HTML &amp; CSS code
+This website is made in HTML &amp; CSS code
